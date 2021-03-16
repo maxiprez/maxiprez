@@ -10,9 +10,7 @@
 - 📌 Metas para 2021: Seguir aprendiendo sobre nuevas tecnologías.
 - ⚡ Hobbies: Soy baterista 🥁 y me apasionan los autos clásicos 🚘.
 
-### Spotify Playlist 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5cP3bSzA4LYHmMKLEHSIiK?si=b0855dabcbcd4db4)
+---
 
 ### Contactame:
 
